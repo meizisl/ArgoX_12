@@ -62,6 +62,7 @@
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/argox/main/argox.sh)
 ```
+```
 bash <(wget -qO- https://raw.githubusercontent.com/meizisl/ArgoX_12/main/argox.sh)
 ```
 
